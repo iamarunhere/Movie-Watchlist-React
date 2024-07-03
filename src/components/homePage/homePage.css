@@ -1,0 +1,64 @@
+body {
+  background-color: #f6efff;
+}
+.movie-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.movie-card {
+  width: 250px;
+  margin: auto;
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px #bec6cb;
+  transition: 0.3s;
+  animation: fadeIn 1s;
+  background-color: #eae3f4;
+  color: white;
+  position: relative;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+.movie-card:hover {
+  box-shadow: 0px 0px 10px #bb598194;
+}
+.movie-card h3 {
+  background: linear-gradient(to right, #5f12fc, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline;
+  text-decoration: none;
+}
+
+.movie-details li {
+  list-style: circle;
+  color: #0c0026;
+  padding-bottom: 3px;
+}
+.movie-card .edit-icon {
+  position: absolute;
+  top: 5px;
+  right: 50px;
+  cursor: pointer;
+  color: #bb598194;
+}
+.movie-card .delete-icon {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+  cursor: pointer;
+  color: #852c5085;
+}
+.delete-icon:hover {
+  color: #6f113794;
+}
+.edit-icon:hover {
+  color: #6d133794;
+}
+.homepage-starRating {
+  cursor: default;
+}
+label {
+  color: #0c0026;
+}

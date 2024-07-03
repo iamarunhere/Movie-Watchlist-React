@@ -1,0 +1,279 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Baahubali",
+      "description": "Epic tale of two brothers vying for the throne of a kingdom.",
+      "releaseYear": "2015",
+      "genre": "Action, Drama",
+      "review": "Spectacular visuals and grand storytelling.",
+      "rating": 5,
+      "watched": false
+    },
+    {
+      "id": 2,
+      "title": "3 Idiots",
+      "description": "A story about friendship, pursuing dreams, and the pressures of society.",
+      "releaseYear": "2009",
+      "genre": "Comedy, Drama"
+    },
+    {
+      "id": 4,
+      "title": "Visaaranai",
+      "description": "Four migrant workers are brutalized by police after being wrongly accused of a crime.",
+      "releaseYear": "2015",
+      "genre": "Crime, Thriller",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "title": "Dangal",
+      "description": "A father's determination to make his daughters world-class wrestlers.",
+      "releaseYear": "2016",
+      "genre": "Biography, Sport",
+      "review": "Inspiring and emotionally resonant.",
+      "rating": 5,
+      "watched": false
+    },
+    {
+      "id": 6,
+      "title": "Piku",
+      "description": "A quirky comedy about a daughter's relationship with her aging father.",
+      "releaseYear": "2015",
+      "genre": "Comedy, Drama",
+      "review": "Heartwarming and hilarious.",
+      "rating": 4,
+      "watched": false
+    },
+    {
+      "id": 7,
+      "title": "Super Deluxe",
+      "description": "Four interconnected stories explore moral dilemmas and redemption.",
+      "releaseYear": "2019",
+      "genre": "Drama, Thriller",
+      "review": "Innovative storytelling with stellar performances.",
+      "rating": 5,
+      "watched": true
+    },
+    {
+      "id": 9,
+      "title": "Kabir Singh",
+      "description": "A passionate love story marred by personal demons.",
+      "releaseYear": "2019",
+      "genre": "Drama, Romance",
+      "review": "Intense and controversial portrayal.",
+      "rating": 4,
+      "watched": true
+    },
+    {
+      "id": 10,
+      "title": "Vikram Vedha",
+      "description": "A cat-and-mouse game between a ruthless gangster and an honest cop.",
+      "releaseYear": "2017",
+      "genre": "Action, Crime, Drama",
+      "review": "Thrilling and thought-provoking.",
+      "rating": 5,
+      "watched": false
+    },
+    {
+      "id": 11,
+      "title": "Asuran",
+      "description": "A man from an oppressed caste seeks revenge against a powerful landlord.",
+      "releaseYear": "2019",
+      "genre": "Action, Drama",
+      "review": "Intense and powerful portrayal of caste-based discrimination.",
+      "rating": 5,
+      "watched": true
+    },
+    {
+      "id": 12,
+      "title": "96",
+      "description": "A reunion of childhood sweethearts after 22 years sparks nostalgia and emotions.",
+      "releaseYear": "2018",
+      "genre": "Drama, Romance",
+      "review": "Heartwarming and nostalgic journey of love.",
+      "rating": 4,
+      "watched": false
+    },
+    {
+      "id": 13,
+      "title": "Thalapathi",
+      "description": "A powerful gangster drama about friendship and loyalty.",
+      "releaseYear": "1991",
+      "genre": "Drama, Action",
+      "review": "Epic storytelling and memorable performances.",
+      "rating": 5,
+      "watched": true
+    },
+    {
+      "id": 14,
+      "title": "Mahanati",
+      "description": "Biographical drama based on the life of actress Savitri.",
+      "releaseYear": "2018",
+      "genre": "Biography, Drama",
+      "review": "Powerful performances and emotional depth.",
+      "rating": 4,
+      "watched": false
+    },
+    {
+      "id": 15,
+      "title": "Enthiran",
+      "description": "A scientist creates a humanoid robot with unforeseen consequences.",
+      "releaseYear": "2010",
+      "genre": "Action, Sci-Fi",
+      "review": "Groundbreaking visual effects and thought-provoking themes.",
+      "rating": 4,
+      "watched": true
+    },
+    {
+      "id": 16,
+      "title": "Andhadhun",
+      "description": "A blind pianist unwittingly becomes embroiled in murder.",
+      "releaseYear": "2018",
+      "genre": "Crime, Thriller",
+      "review": "Twisty and unpredictable.",
+      "rating": 4,
+      "watched": false
+    },
+    {
+      "id": 17,
+      "title": "Drishyam",
+      "description": "A man takes desperate measures to protect his family when they become embroiled in a crime.",
+      "releaseYear": "2013",
+      "genre": "Crime, Drama, Thriller",
+      "review": "Gripping and suspenseful.",
+      "rating": 5,
+      "watched": false
+    },
+    {
+      "id": 18,
+      "title": "Jersey",
+      "description": "A failed cricketer decides to revive his career for the sake of his son.",
+      "releaseYear": "2019",
+      "genre": "Drama, Sport",
+      "review": "Heartwarming and inspiring.",
+      "rating": 5,
+      "watched": false
+    },
+    {
+      "id": 19,
+      "title": "Bhaag Milkha ",
+      "description": "Biographical sports drama based on the life of Milkha Singh.",
+      "releaseYear": "2013",
+      "genre": "Biography, Sport",
+      "review": "Powerful portrayal and inspiring story.",
+      "rating": 5,
+      "watched": true
+    },
+    {
+      "id": 20,
+      "title": "Lucia",
+      "description": "A man's dreams and reality blur after he starts using a special pill.",
+      "releaseYear": "2013",
+      "genre": " Mystery, Thriller",
+      "review": "Intriguing and thought-provoking.",
+      "rating": 4,
+      "watched": false
+    },
+    {
+      "id": 21,
+      "title": "KGF Chapter 1",
+      "description": "A man rises from rags to riches in the world of gold mining.",
+      "releaseYear": "2018",
+      "genre": "Action, Drama",
+      "review": "Epic scale and compelling narrative.",
+      "rating": 5,
+      "watched": true
+    },
+    {
+      "id": 22,
+      "title": "Aruvi",
+      "description": "A young woman's journey from innocence to activism.",
+      "releaseYear": "2017",
+      "genre": "Drama",
+      "review": "Bold and impactful storytelling.",
+      "rating": 4,
+      "watched": false
+    },
+    {
+      "id": 24,
+      "title": "The Shawshank ",
+      "description": "A banker wrongfully convicted of murder escapes from prison after 25 years and befriends a fellow prisoner.",
+      "releaseYear": "1994",
+      "genre": "Drama",
+      "review": "Masterful storytelling and performances.",
+      "rating": 5,
+      "watched": false
+    },
+    {
+      "id": 25,
+      "title": "Fight Club",
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "releaseYear": "1999",
+      "genre": "Drama, Thriller",
+      "review": "Provocative exploration of identity and rebellion.",
+      "rating": 4,
+      "watched": false
+    },
+    {
+      "id": 26,
+      "title": "Titanic",
+      "description": "A young woman from an aristocratic family falls in love with a poor artist aboard the ill-fated R.M.S Titanic.",
+      "releaseYear": "1997",
+      "genre": "Romance, Drama",
+      "review": "Passionate and tragic love story.",
+      "rating": 5,
+      "watched": true
+    },
+    {
+      "id": 27,
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+      "releaseYear": "2010",
+      "genre": "Sci-Fi, Action",
+      "review": "Mind-bending and visually stunning.",
+      "rating": 5,
+      "watched": false
+    },
+    {
+      "id": 28,
+      "title": "Schindler's List",
+      "description": "Oskar Schindler uses his influence to save hundreds of Polish Jewish refugees during the Holocaust by employing them in his factories.",
+      "releaseYear": "1993",
+      "genre": "History, Drama",
+      "review": "Powerful and harrowing depiction of World War II.",
+      "rating": 5,
+      "watched": true
+    },
+    {
+      "id": 29,
+      "title": "The Dark Knight",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical challenges of his criminal career as he attempts to combat this corrupt entity.",
+      "releaseYear": "2008",
+      "genre": "Action, Crime, Drama",
+      "review": "Dark and gritty superhero film with a profound impact.",
+      "rating": 4,
+      "watched": false
+    },
+    {
+      "id": 30,
+      "title": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "releaseYear": "1972",
+      "genre": "Crime, Drama",
+      "review": "Iconic and influential mobster saga.",
+      "rating": 5,
+      "watched": true
+    },
+    {
+      "id": 31,
+      "title": "The Johnwick",
+      "description": "Story of gangster who returned from ganster life",
+      "releaseYear": "1972",
+      "genre": "Crime, Drama",
+      "review": "Iconic and influential mobster saga.",
+      "rating": 5,
+      "watched": true
+    }
+  ]
+}
