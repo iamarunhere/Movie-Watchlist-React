@@ -15,7 +15,8 @@
       "title": "3 Idiots",
       "description": "A story about friendship, pursuing dreams, and the pressures of society.",
       "releaseYear": "2009",
-      "genre": "Comedy, Drama"
+      "genre": "Comedy, Drama",
+      "watched": false
     },
     {
       "id": 4,
