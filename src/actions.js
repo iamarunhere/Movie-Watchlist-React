@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://movie-watchlist-react.onrender.com/movies";
+const BASE_URL = "http://localhost:3000/movies";
 
 export const fetchMovies = () => ({
   type: "FETCH_MOVIES",
